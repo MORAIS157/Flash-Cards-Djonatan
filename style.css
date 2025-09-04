@@ -40,6 +40,11 @@ body{
     border-radius: 0.6rem;
     font-size: 1vw;
 }
+.cartao_conteudo p{
+    margin-top: 1rem;
+    padding: 2rem;
+}
+.cart
 footer{
     background-color: black;
     color: white;

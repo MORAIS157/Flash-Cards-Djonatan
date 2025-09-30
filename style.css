@@ -1,9 +1,9 @@
 :root {
     --text-color: #2b2d30;
-    --card-front-color: #144480;
-    --card-back-color: #3d4140;
+    --card-front-color: #000000;
+    --card-back-color: #0044ff;
     --cor-da-borda:#2a2a2c;
-    --cor-fundo-cartao: #3f3f42;
+    --cor-fundo-cartao: #0000ff;
 }
 
 body {
